@@ -16,7 +16,6 @@
 </p></br>
 
 #
-<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://i.imgur.com/49MuXB9.png" width="350" alt="SPOTIFY"/> </a>
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gera26&show_icons=true&theme=radical"/>
