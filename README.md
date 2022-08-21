@@ -3,22 +3,7 @@
 
 - I've always been passionate about technology, always looking to be the best version of myself committed to learning new programming languages ​​and learning more about it. Pleased to meet you.
 
-<div align="center">
-
-  ![Snake animation](https://github.com/gera26/gera26/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 </br>
-
-#
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gera26&show_icons=true&theme=merko"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gera26&layout=compact&theme=merko"/>
-</div>
-
-#
 
 <h3 align="center" style="font-size:23px">Get in touch:</h3>
 
@@ -28,6 +13,15 @@
 <a href="https://api.whatsapp.com/send?phone=5581995160095&text=Ol%C3%A1%20Geraldo!%20Cheguei%20aqui%20atrav%C3%A9s%20do%20seu%20GitHub." target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="(81) 98870-7458" /></a>
 <a href="mailto:geraldospn26@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="(81) 98870-7458" /></a>
 </p></br>
+
+#
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gera26&show_icons=true&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gera26&layout=compact&theme=merko"/>
+</div>
+
+#
 
 <h3 align="center"style="font-size:23px">👨‍🎓 Currently Studying:</h3>
 
@@ -39,3 +33,8 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
+<div align="center">
+
+  ![Snake animation](https://github.com/gera26/gera26/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
