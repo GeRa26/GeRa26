@@ -1,4 +1,3 @@
-<a href="https://www.linkedin.com/in/viniventura/" target="blank"><img align="right" src="https://i.imgur.com/0fpmzvo.png" alt="BANNER"/></a>
 
 <h1 align="center">Hi there, I'm Geraldo Neto 👋</h1> <br/> 
 
@@ -23,8 +22,6 @@
 </div>
 
 #
-
-
 
 <h3 align="center"style="font-size:23px">👨‍🎓 Currently Studying:</h3></br>
 
