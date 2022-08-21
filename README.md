@@ -5,7 +5,7 @@
 
 </br>
 
-<h3 align="center" style="font-size:23px">Get in touch:</h3></br>
+<h3 align="center" style="font-size:23px">Get in touch:</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/geraldo-neto-5b919a22b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,7 +23,7 @@
 
 #
 
-<h3 align="center"style="font-size:23px">👨‍🎓 Currently Studying:</h3></br>
+<h3 align="center"style="font-size:23px">👨‍🎓 Currently Studying:</h3>
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
