@@ -17,6 +17,8 @@
 
 #
 
+<a href="geraldodev.com" target="blank"><img align="right" src="https://user-images.githubusercontent.com/101209789/185812821-bc4ff904-f7ea-4da9-b7f9-127a25262606.png" width="350" alt="SPOTIFY"/> </a>
+
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gera26&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gera26&layout=compact&theme=radical"/>
