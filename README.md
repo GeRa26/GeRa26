@@ -1,3 +1,4 @@
+<a href="https://www.linkedin.com/in/gera26" target="blank"><img align="right" src="https://imgur.com/mkhrgZg" alt="BANNER"/></a>
 
 <h1 align="center">Hi there, I'm Geraldo Neto 👋</h1> <br/> 
 
@@ -15,8 +16,9 @@
 </p></br>
 
 #
+<a href="https://open.spotify.com/user/12181315956?si=5f87ee4568e0418e" target="blank"><img align="right" src="https://i.imgur.com/49MuXB9.png" width="350" alt="SPOTIFY"/> </a>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gera26&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gera26&layout=compact&theme=radical"/>
 </div>
