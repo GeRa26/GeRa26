@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/gera26" target="blank"><img align="right" src="https://user-images.githubusercontent.com/101209789/185811405-ff6e74bc-6ce1-4968-b0d2-3c2f71790514.png" alt="BANNER"/></a>
+<a href="https://www.linkedin.com/in/geraldo-neto-5b919a22b/" target="blank"><img align="right" src="https://user-images.githubusercontent.com/101209789/185811405-ff6e74bc-6ce1-4968-b0d2-3c2f71790514.png" alt="BANNER"/></a>
 
 <h1 align="center">Hi there, I'm Geraldo Neto 👋</h1> <br/> 
 
