@@ -61,6 +61,7 @@
 
 <a href="https://github.com/GeRa26" title="Perfil do Geraldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeRa26&theme=merko&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeRa26&layout=compact&theme=merko" alt="Top langs" height="180em"/>
 </a>
 
 ## Onde me encontrar
