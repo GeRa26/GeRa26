@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=GeRa26&color=006bed)
 
+![Banner](https://github.com/GeRa26/GeRa26/blob/main/banner%20link.png)
+
 ## Sobre mim
 
 - 🤔 Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
